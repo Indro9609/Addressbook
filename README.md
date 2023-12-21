@@ -1,4 +1,3 @@
-Delete
 
 
 Addressbook Tutorial
